@@ -11,12 +11,12 @@ const TodoData =[
     },
     {
         id : 3,
-        text: "react",
+        text: "Code",
         completed: true
     },
     {
         id : 4,
-        text: "kamehameha",
+        text: "Go to Gym",
         completed: true
     },
     {
