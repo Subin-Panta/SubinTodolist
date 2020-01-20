@@ -21,7 +21,9 @@ class App extends React.Component {
       return todo
     }
       )
-    return newtodos
+    return { 
+      todos : newtodos}
+      
     })
 }
 
